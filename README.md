@@ -16,7 +16,9 @@ Clear Display: The calculated age is presented in a clear and bold format below 
 # Technologies Used:
 
 HTML: Provides the structure and elements of the webpage.
+
 CSS: Styles the webpage, enhancing its visual appeal and user experience.
+
 JavaScript: Implements the logic for age calculation and dynamically updates the result on the webpage.
 How to Use:
 
